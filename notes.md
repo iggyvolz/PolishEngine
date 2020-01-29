@@ -1,0 +1,1 @@
+A window contains a method GetViewport that returns an InternalTexture object.

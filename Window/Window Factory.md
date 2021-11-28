@@ -5,11 +5,8 @@ This document describes the Window Factory object type.
 A Window Factory object is an object which is able to instantiate windows.
 
 # Properties
-## Instantiability
-The Window Factory is directly instantiable with an identifier calculated as specified in the Standard Identifier specification.
-
-## Methods
-The Window Factory is a method object.  The server may only call the Create Window method.
+## Singleton
+This object is a singleton, identified by the UUID cf54a8e1-96aa-42e2-ac24-095824acdedf.
 
 # Methods
 ## Server-callable

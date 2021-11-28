@@ -1,8 +1,8 @@
 # Overview
-This document describes the World object type.
+This document describes the World3D object type.
 
 # Purpose
-A World object is a 3-dimensional Euclidean space.  It is indexed by three IEEE-754 floating point coordinates.
+A World3D object is a 3-dimensional Euclidean space.  It is indexed by three IEEE-754 floating point coordinates.
 
 # Properties
 ## Singleton
